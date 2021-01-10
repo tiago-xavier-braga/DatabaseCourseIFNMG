@@ -2,3 +2,4 @@
 O cliente X, solicitou a modelagem de um banco de dados para cadastro dos seus clientes. A função da Unidados é a análise dos requisitos junto aos usuários para a correta construção do produto. O cliente deseja que inicialmente os scripts sejam construídos para o Banco de Dados MySQL, porém, posteriormente pode haver mudança no ambiente e consequentemente adaptação dos scripts para outros produtos de SGBD. O cliente não quer nenhuma informação relativa à vendas ou estoque, desejando somente as informações primárias de Clientes.
 ## Modelagem Lógica
 ![Logica](https://github.com/tiago-xavier-braga/mysql-course/blob/master/CLIENTE%231/images/cliente%231.png)
+<img src="https://github.com/tiago-xavier-braga/mysql-course/blob/master/CLIENTE%231/images/cliente%231.png" heigth="486" width="400">

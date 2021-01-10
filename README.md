@@ -1,7 +1,31 @@
-# mysql-course
+<h1 align="center">Banco de Dados Relacionais<h1>
 
-<img src="https://github.com/tiago-xavier-braga/mysql-course/blob/master/images/mysql_logo.png" heigth="300" width="300">
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#clone">Git Clone</a> •
+ <a href="#autor">Autor</a>
+</p>
 
-[Exercício - 1](https://github.com/tiago-xavier-braga/mysql-course/tree/master/CLIENTE%231)
+## Objetivo
+Realizar todos os exercícios e publicar diariamente todos os códigos desenvolvidos.
 
-[Exercício - 2](https://github.com/tiago-xavier-braga/mysql-course/tree/master/CLIENTE%232)
+- [ ] Completar até o dia 31/06/2021
+- [ ] Manter uma frequência diária de commit/push
+
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Docker](https://www.docker.com/)
+- [Code - OSS](https://github.com/Microsoft/vscode)
+
+## Clone
+```bash
+#Clone este repositório
+$ git clone https://github.com/tiago-xavier-braga/database-course.git
+```
+
+## Autor
+### Tiago Xavier Braga
+[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/tiago-xavier-braga-1335391ab/)

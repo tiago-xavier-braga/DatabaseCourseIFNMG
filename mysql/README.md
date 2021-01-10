@@ -13,10 +13,10 @@
 
 ## Instalação
 ```bash
-#Instalando a imagem mysql no docker
+# Instalando a imagem mysql no docker
 $ docker pull mysql
 
-# Iniciando o MySQL instance, <NAME_DATA> é o local para colocar o nome do container
+# Iniciando o MySQL instance, "Nome do container" é o local para nomear o container
 $ sudo docker run -p 3306:3306 --name "Nome do container" -e MYSQL_ROOT_PASSWORD=root -d mysql
 ```
 ### Utilizando o container direto no terminal
@@ -28,6 +28,6 @@ $ mysql -u root -p
 ## Exercícios
 
 <!--ts-->
-   * [Cliente-1]()
-   * [Cliente-2]()
+   * [Cliente-1](https://github.com/tiago-xavier-braga/Database-course/tree/master/mysql/CLIENTE-1)
+   * [Cliente-2](https://github.com/tiago-xavier-braga/Database-course/tree/master/mysql/CLIENTE-2)
 <!--te-->

@@ -12,17 +12,17 @@ Após a criação da tabela, deveremos entregar algumas queries prontas para que
 <l>Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro <b>(Questão Desafio)<b>.</li>
 </ul>
 
-|   | Atributos:             |                 |
-|---|------------------------|-----------------|
-|   |      NOME DO LIVRO     |                 |
-|   |      NOME DO AUTOR     |                 |
-|   |      SEXO DO AUTOR     |                 |
-|   |    NUMERO DE PÁGINAS   |                 |
-|   |     NOME DA EDITORA    |                 |
-|   |     VALOR DO LIVRO     |                 |
-|   | ESTADO (UF) DA EDITORA |                 |
-|   |     ANO PUBLICACAO     |                 |
-|   |                        |                 |
+|   | Atributos:             |   |
+|---|------------------------|---|
+|   |      NOME DO LIVRO     |   |             
+|   |      NOME DO AUTOR     |   |             
+|   |      SEXO DO AUTOR     |   |             
+|   |    NUMERO DE PÁGINAS   |   |             
+|   |     NOME DA EDITORA    |   |             
+|   |     VALOR DO LIVRO     |   |             
+|   | ESTADO (UF) DA EDITORA |   |             
+|   |     ANO PUBLICACAO     |   |                 
+
 
 ## Dados para teste 
 |  | Nome do Livro | Nome do Autor | Sexo do Autor | Numero de Páginas | Nome da Editora | Valor do Livro | UF da Editora | Ano da Publicacao |

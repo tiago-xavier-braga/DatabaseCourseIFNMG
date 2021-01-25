@@ -8,7 +8,7 @@ CREATE TABLE LIVROS(
     SEXO CHAR (10),
     PAGINAS INT(5),
     EDITORA VARCHAR(30),
-    VALOR INT(5),
+    VALOR FLOAT(5),
     UF CHAR(2),
     ANO INT(4)
 );
@@ -94,3 +94,7 @@ SELECT VALOR FROM LIVROS
 -- |    98 |
 -- |    56 |
 -- +-------+
+
+-- Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro (Questão Desafio).
+SELECT AUTOR, SEXO, UF FROM LIVROS
+WHERE SEXO = 'M' AND (UF = 'SP' OR UF = 'RJ');

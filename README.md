@@ -23,8 +23,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Bancos 
 - [MYSQL](https://github.com/tiago-xavier-braga/Database-course/tree/master/mysql)
-- [Oracle]()
-- [SQL Server]()
 
 ## Clone
 ```bash

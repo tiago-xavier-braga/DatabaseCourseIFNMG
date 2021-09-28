@@ -19,7 +19,6 @@ Realizar todos os exercícios e publicar diariamente todos os códigos desenvolv
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Docker](https://www.docker.com/)
-- [Code - OSS](https://github.com/Microsoft/vscode)
 
 ## Bancos 
 - [MYSQL](https://github.com/tiago-xavier-braga/Database-course/tree/master/mysql)
